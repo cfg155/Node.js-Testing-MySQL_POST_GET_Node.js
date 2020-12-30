@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: arial,sans-serif;
+}
+
+.container { 
+    width: 50%;
+    margin: auto;
+}
+
+.container div {
+    margin: 20px 0;
+}
+
+.input {
+    display: flex;
+}
+
+.input input {
+    padding: 10px 20px;
+}
+
+input[type="text"] {
+    width: 100%;
+    margin-right: 10px;
+}
